@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+}
+
+.aside {
+  flex-grow: .3;
+}
+
+.content {
+  flex-grow: .7;
+}
+
+/*# sourceMappingURL=index.1d42ac3b.css.map */

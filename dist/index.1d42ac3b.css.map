@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA;;;;AAIA","sources":["styles/app.css"],"sourcesContent":[".main {\n    display: flex;\n}\n\n.aside {\n    flex-grow: 0.3;\n}\n\n.content {\n    flex-grow: 0.7;\n}"],"names":[],"version":3,"file":"index.1d42ac3b.css.map","sourceRoot":"/__parcel_source_root/"}
